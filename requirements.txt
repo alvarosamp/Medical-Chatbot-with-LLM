@@ -1,9 +1,9 @@
-langchain
+langchain <1.0.0
 flask 
 sentence-transformers
 pypdf
 python-dotenv
 langchain-pinecone
 langchain-openai
-langchain-community
+langchain-community < 0.4.0
 -e .
